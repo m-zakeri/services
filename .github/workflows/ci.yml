@@ -30,9 +30,9 @@ jobs:
       - name: Deploy English site
         run: |
           mkdocs build -f mkdocs-en.yml
-          mkdocs gh-deploy -f mkdocs-en.yml --force --remote-branch gh-page-en
+          mkdocs gh-deploy -f mkdocs_en.yml --force --remote-branch gh-page-en
 
       - name: Deploy Persian site
         run: |
           mkdocs build -f mkdocs.yml
-          mkdocs gh-deploy -f mkdocs-fa.yml --force --remote-branch gh-page-fa
+          mkdocs gh-deploy -f mkdocs.yml --force --remote-branch gh-page-fa
