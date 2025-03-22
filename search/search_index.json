@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"About us","text":""},{"location":"people/","title":"People","text":""},{"location":"products/","title":"Products","text":""},{"location":"services/","title":"Services","text":""},{"location":"blog/","title":"Blog","text":""}]}
