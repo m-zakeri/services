@@ -1,6 +1,7 @@
 #  mkdocs serve -f mkdocs.yml --dev-addr=127.0.0.1:8000
 site_name:  آزمایشگاه مهندسی نرم افزار هوشمند
-site_url: https://m-zakeri.github.io/services/fa/
+site_url: https://m-zakeri.github.io/services/
+
 site_description: آزمایشگاه مهندسی نرم افزار هوشمند - دانشگاه صنعتی امیرکبیر (پلی تکنیک تهران)
 site_author: مرتضی ذاکری
 copyright: 2025 - 2024 &copy; 
@@ -139,8 +140,9 @@ extra:
       link: /services/en/
       lang: en
     - name: FA
-      link: /services/fa/
+      link: /services/
       lang: fa
+
   generator: false
   social:
     - icon: fontawesome/brands/linkedin

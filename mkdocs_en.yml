@@ -1,6 +1,6 @@
 # mkdocs serve -f mkdocs_en.yml --dev-addr=127.0.0.1:8001
 site_name: Intelligent Software Engineering Laboratory
-site_url: https://m-zakeri.github.io/services/en/
+site_url: site/en/
 site_description:
 site_author: Morteza Zakeri
 copyright: 2025 - 2024 &copy; 
@@ -139,7 +139,7 @@ extra:
       link: /services/en/
       lang: en
     - name: FA
-      link: /services/fa/
+      link: /services/
       lang: fa
 
   generator: false
