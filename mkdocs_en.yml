@@ -1,6 +1,6 @@
 # mkdocs serve -f mkdocs_en.yml --dev-addr=127.0.0.1:8001
 site_name: Intelligent Software Engineering Laboratory
-site_url: site/en/
+site_url: '../../en/'
 site_description:
 site_author: Morteza Zakeri
 copyright: 2025 - 2024 &copy; 
