@@ -136,10 +136,10 @@ plugins:
 extra:
   alternate:
     - name: EN
-      link: /en/
+      link: /services/en/
       lang: en
     - name: FA
-      link: /fa/
+      link: /services/fa/
       lang: fa
   generator: false
   social:
