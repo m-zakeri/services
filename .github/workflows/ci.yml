@@ -42,4 +42,4 @@ jobs:
 
       - name: Deploy All site
         run: |
-          mkdocs gh-deploy -f mkdocs.yml --force --remote-branch gh-page-fa
+          mkdocs gh-deploy --dirty -f mkdocs.yml --force --remote-branch gh-page-fa

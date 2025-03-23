@@ -71,8 +71,8 @@
 
 ##    سفارش 
 
-برای سفارش خدمات از طریق تلگرام با ما در ارتباط باشید: 
+برای سفارش خدمات از طریق اطلاعات تماس زیر با آزمایشگاه در ارتباط باشید: 
 
-[سفارش](https:/t.me/mztel){target="_blank" .md-button .md-button--primary }
+[سفارش](https://www.m-zakeri.ir/pages/contact-me.html){target="_blank" .md-button .md-button--primary }
 
 <!--[Order now](https:/t.me/mztel){ .md-button .md-button--primary target="_blank"}-->

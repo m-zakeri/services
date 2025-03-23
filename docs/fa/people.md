@@ -11,11 +11,13 @@
 **گرایش نرم افزار**
 <br/>
 <br/>
-[:fontawesome-brands-google-scholar:](#)
+[:material-web:](https://www.m-zakeri.ir/){target="_blank"}
 |
-[:simple-researchgate:](#)
+[:fontawesome-brands-google-scholar:](https://scholar.google.com/citations?user=km5DzwwAAAAJ&hl=en){target="_blank"}
 |
-[:fontawesome-brands-linkedin-in:](#)
+[:simple-researchgate:](https://www.researchgate.net/profile/Morteza-Zakeri){target="_blank"}
+|
+[:fontawesome-brands-linkedin-in:](https://www.linkedin.com/in/mortazazakeri/){target="_blank"}
 { .card }
 
 </div>
