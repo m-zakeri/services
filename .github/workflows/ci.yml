@@ -8,6 +8,7 @@ permissions:
   contents: write
 jobs:
   deploy:
+#    runs-on: windows-latest
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -42,4 +43,9 @@ jobs:
 
       - name: Deploy All site
         run: |
-          mkdocs gh-deploy --dirty -f mkdocs.yml --force --remote-branch gh-page-fa
+          git checkout --orphan gh-page-fa
+          cp -R site/* .
+          git add .
+          git commit -m "Deploy MkDocs site manually at service repo"
+          git push origin gh-page-fa --force
+#          mkdocs gh-deploy --dirty -f mkdocs.yml --force --remote-branch gh-page-fa
